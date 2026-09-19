@@ -117,11 +117,10 @@ facial recognition for fast and secure tracking.
 <h3>🚀 Developer Focus</h3>
 
 <p>
-<b>Artificial Intelligence</b><br>
-Machine Learning • Generative AI<br>
-Computer Vision • Data Science
+<b>Data Science</b><br>
+Artificial Intelligence • Machine Learning<br>
+Generative AI • Computer Vision
 </p>
-
 <br>
 
 <p>
