@@ -7,37 +7,61 @@
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)
-##🚀Featured projects
+<h1>📌 Featured Projects</h1>
 
-### 📌 PAKSHEILDAL
+<table>
+<tr>
+
+<td width="33%" align="center">
+
+<h3>🛡️ PAKSHEILDAL</h3>
+
+<p>
 A project focused on developing practical and technology-driven solutions.
+</p>
 
-🔗 [View Project](https://github.com/Hustlexsolutions/PAKSHEILDAL)
+<p><b>Tech:</b> Python</p>
 
-### 📌 SAFTHER
+<a href="https://github.com/Hustlexsolutions/PAKSHEILDAL">
+View Project →
+</a>
+
+</td>
+
+<td width="33%" align="center">
+
+<h3>🚀 SAFTHER</h3>
+
+<p>
 A practical software project built to provide an efficient and user-friendly solution.
+</p>
 
-🔗 [View Project](https://github.com/Hustlexsolutions/SAFTHER)
+<p><b>Tech:</b> Python</p>
 
-### 📌 Attend-X
+<a href="https://github.com/Hustlexsolutions/SAFTHER">
+View Project →
+</a>
+
+</td>
+
+<td width="33%" align="center">
+
+<h3>🤖 Attend-X</h3>
+
+<p>
 AI-powered attendance management system using facial recognition for fast and secure attendance tracking.
+</p>
 
-🔗 [View Project](https://github.com/Hustlexsolutions/Attend-X)
+<p><b>Tech:</b> Python • AI • Computer Vision</p>
 
-### 📌 AttendX Face Detection System
-A facial-recognition based system for automated attendance management.
+<a href="https://github.com/Hustlexsolutions/Attend-X">
+View Project →
+</a>
 
-🔗 [View Project](https://github.com/Hustlexsolutions/AttendX-Face-Detection-Syestem)
+</td>
 
-### 📌 AttendX
-An AI-powered attendance system designed for automated and efficient attendance tracking.
-
-🔗 [View Project](https://github.com/Hustlexsolutions/AttendX)
-
-### 📌 Hustlexsolutions
-Personal GitHub profile repository containing the profile README and developer information.
-
-🔗 [View Profile](https://github.com/Hustlexsolutions)
+</tr>
+</table>
 
 ---
 # 📊 GitHub Stats:
