@@ -132,11 +132,19 @@ facial recognition for fast and secure tracking.
 </div>
 
 ---
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Hustlexsolutions&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Hustlexsolutions&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Hustlexsolutions&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br>
 
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Hustlexsolutions&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats">
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hustlexsolutions&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Top Languages">
+
+</div>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Hustlexsolutions&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
