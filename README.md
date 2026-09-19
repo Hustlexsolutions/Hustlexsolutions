@@ -59,7 +59,7 @@ an efficient and user-friendly solution.
 
 <br>
 
-<a href="PASTE_SAFEHER_LIVE_URL_HERE">
+<a href="https://github.com/Hustlexsolutions/SAFEHER">
 <b>🚀 OPEN LIVE PROJECT →</b>
 </a>
 
