@@ -22,7 +22,7 @@ A project focused on developing practical and technology-driven solutions.
 
 <p><b>Tech:</b> Python</p>
 
-<a href="https://github.com/Hustlexsolutions/PAKSHEILDAL">
+<a href="https://github.com/Hustlexsolutions/PAKSHEILDAI">
 View Project →
 </a>
 
@@ -30,7 +30,7 @@ View Project →
 
 <td width="33%" align="center">
 
-<h3>🚀 SAFTHER</h3>
+<h3>🚀 SAFEHER</h3>
 
 <p>
 A practical software project built to provide an efficient and user-friendly solution.
