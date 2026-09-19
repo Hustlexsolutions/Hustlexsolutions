@@ -29,7 +29,7 @@ technology-driven solutions.
 
 <br>
 
-<a href="PASTE_PAKSHEILDAI_BOLT_URL_HERE">
+<a href="https://pakshield-ai-cyberse-xsrl.bolt.host">
 <b>🚀 OPEN LIVE PROJECT →</b>
 </a>
 
