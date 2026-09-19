@@ -7,114 +7,304 @@
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)
-<h1 align="left">📌 Featured Projects</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Featured Projects</title>
 
-<table width="100%">
-<tr>
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
 
-<td width="33%" align="center" valign="top">
+    body {
+      min-height: 100vh;
+      font-family: Inter, Arial, sans-serif;
+      background:
+        radial-gradient(circle at 15% 20%, rgba(124, 58, 237, .22), transparent 30%),
+        radial-gradient(circle at 85% 80%, rgba(99, 102, 241, .18), transparent 32%),
+        #0b0815;
+      color: #f7f3ff;
+      padding: 60px 24px;
+    }
 
-<h2>🛡️ PAKSHEILDAI</h2>
+    .container {
+      max-width: 1200px;
+      margin: auto;
+    }
 
-<p>
-AI-powered project focused on building practical
-and technology-driven solutions.
-</p>
+    .hero {
+      text-align: center;
+      margin-bottom: 42px;
+    }
 
-<br>
+    .eyebrow {
+      display: inline-block;
+      padding: 8px 15px;
+      border: 1px solid rgba(167, 139, 250, .35);
+      border-radius: 999px;
+      color: #c4b5fd;
+      background: rgba(124, 58, 237, .10);
+      font-size: 13px;
+      letter-spacing: .08em;
+      text-transform: uppercase;
+      margin-bottom: 16px;
+    }
 
-<p><b>⚡ TypeScript</b></p>
+    h1 {
+      font-size: clamp(32px, 5vw, 58px);
+      margin-bottom: 14px;
+    }
 
-<br>
+    .hero p {
+      color: #aaa0bd;
+      max-width: 650px;
+      margin: auto;
+      line-height: 1.7;
+    }
 
-<a href="https://hustlexsolutions.github.io/">
-🚀 <b>Open Project</b>
-</a>
+    .projects {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 22px;
+    }
 
-<br><br>
+    .card {
+      position: relative;
+      overflow: hidden;
+      padding: 28px;
+      min-height: 330px;
+      border: 1px solid rgba(167, 139, 250, .24);
+      border-radius: 22px;
+      background: linear-gradient(
+        145deg,
+        rgba(39, 25, 67, .94),
+        rgba(18, 13, 31, .96)
+      );
+      box-shadow: 0 20px 55px rgba(0, 0, 0, .35);
+      transition: transform .25s ease, border-color .25s ease, box-shadow .25s ease;
+    }
 
-<a href="https://github.com/Hustlexsolutions/PAKSHEILDAI">
-📂 Repository
-</a>
+    .card::before {
+      content: "";
+      position: absolute;
+      width: 150px;
+      height: 150px;
+      top: -80px;
+      right: -60px;
+      background: #8b5cf6;
+      filter: blur(70px);
+      opacity: .25;
+    }
 
-</td>
+    .card:hover {
+      transform: translateY(-7px);
+      border-color: rgba(167, 139, 250, .65);
+      box-shadow: 0 28px 70px rgba(91, 33, 182, .25);
+    }
 
+    .icon {
+      font-size: 42px;
+      margin-bottom: 18px;
+    }
 
-<td width="33%" align="center" valign="top">
+    .card h2 {
+      font-size: 23px;
+      margin-bottom: 13px;
+    }
 
-<h2>🚀 SAFEHER</h2>
+    .card p {
+      color: #aaa0bd;
+      line-height: 1.65;
+      min-height: 82px;
+    }
 
-<p>
-A practical software project designed to provide
-an efficient and user-friendly solution.
-</p>
+    .tech {
+      display: inline-block;
+      margin: 18px 0 25px;
+      padding: 7px 11px;
+      border-radius: 8px;
+      background: rgba(139, 92, 246, .13);
+      border: 1px solid rgba(139, 92, 246, .25);
+      color: #c4b5fd;
+      font-size: 13px;
+    }
 
-<br>
+    .buttons {
+      display: flex;
+      gap: 10px;
+      flex-wrap: wrap;
+    }
 
-<p><b>🐍 Python</b></p>
+    .btn {
+      display: inline-block;
+      padding: 10px 14px;
+      border-radius: 10px;
+      text-decoration: none;
+      font-size: 13px;
+      font-weight: 700;
+      transition: .2s ease;
+    }
 
-<br>
+    .btn-live {
+      color: white;
+      background: linear-gradient(135deg, #7c3aed, #4f46e5);
+    }
 
-<a href="https://hustlexsolutions.github.io/">
-🚀 <b>Open Project</b>
-</a>
+    .btn-repo {
+      color: #d8d2f0;
+      border: 1px solid rgba(167, 139, 250, .28);
+      background: rgba(255,255,255,.03);
+    }
 
-<br><br>
+    .btn:hover {
+      transform: translateY(-2px);
+      opacity: .9;
+    }
 
-<a href="https://github.com/Hustlexsolutions">
-📂 Repository
-</a>
+    .explore {
+      margin-top: 38px;
+      padding: 34px;
+      text-align: center;
+      border: 1px solid rgba(167, 139, 250, .22);
+      border-radius: 22px;
+      background:
+        linear-gradient(135deg, rgba(76, 29, 149, .28), rgba(30, 27, 75, .5));
+    }
 
-</td>
+    .explore h2 {
+      font-size: 28px;
+      margin-bottom: 10px;
+    }
 
+    .explore p {
+      color: #aaa0bd;
+      margin-bottom: 22px;
+    }
 
-<td width="33%" align="center" valign="top">
+    @media (max-width: 850px) {
+      .projects {
+        grid-template-columns: 1fr;
+      }
 
-<h2>🤖 Attend-X</h2>
+      .card {
+        min-height: auto;
+      }
+    }
+  </style>
+</head>
 
-<p>
-AI-powered attendance management system using
-facial recognition for fast and secure tracking.
-</p>
+<body>
+  <main class="container">
 
-<br>
+    <section class="hero">
+      <span class="eyebrow">Selected Work</span>
+      <h1>📌 Featured Projects</h1>
+      <p>
+        A selection of projects built around software, AI, automation,
+        and practical technology.
+      </p>
+    </section>
 
-<p><b>🐍 Python • AI • Computer Vision</b></p>
+    <section class="projects">
 
-<br>
+      <!-- PAKSHEILDAI -->
+      <article class="card">
+        <div class="icon">🛡️</div>
+        <h2>PAKSHEILDAI</h2>
+        <p>
+          AI-powered project focused on practical,
+          technology-driven solutions.
+        </p>
+        <span class="tech">⚡ TypeScript</span>
 
-<a href="https://hustlexsolutions.github.io/">
-🚀 <b>Open Project</b>
-</a>
+        <div class="buttons">
+          <a class="btn btn-live"
+             href="PASTE_PAKSHEILDAI_BOLT_URL_HERE"
+             target="_blank">
+            🚀 Open Live Project
+          </a>
 
-<br><br>
+          <a class="btn btn-repo"
+             href="https://github.com/Hustlexsolutions/PAKSHEILDAI"
+             target="_blank">
+            📂 Repository
+          </a>
+        </div>
+      </article>
 
-<a href="https://github.com/Hustlexsolutions/Attend-X">
-📂 Repository
-</a>
+      <!-- SAFEHER -->
+      <article class="card">
+        <div class="icon">🚀</div>
+        <h2>SAFEHER</h2>
+        <p>
+          A practical software project designed to provide
+          an efficient and user-friendly solution.
+        </p>
+        <span class="tech">🐍 Python</span>
 
-</td>
+        <div class="buttons">
+          <a class="btn btn-live"
+             href="PASTE_SAFEHER_LIVE_URL_HERE"
+             target="_blank">
+            🚀 Open Live Project
+          </a>
 
-</tr>
-</table>
+          <a class="btn btn-repo"
+             href="https://github.com/Hustlexsolutions"
+             target="_blank">
+            📂 Repository
+          </a>
+        </div>
+      </article>
 
-<br>
+      <!-- ATTEND-X -->
+      <article class="card">
+        <div class="icon">🤖</div>
+        <h2>Attend-X</h2>
+        <p>
+          AI-powered attendance management system using
+          facial recognition for fast and secure tracking.
+        </p>
+        <span class="tech">🐍 Python • AI • Computer Vision</span>
 
----
+        <div class="buttons">
+          <a class="btn btn-live"
+             href="PASTE_ATTENDX_LIVE_URL_HERE"
+             target="_blank">
+            🚀 Open Live Project
+          </a>
 
-<h2>🚀 Open to Explore Projects</h2>
+          <a class="btn btn-repo"
+             href="https://github.com/Hustlexsolutions/Attend-X"
+             target="_blank">
+            📂 Repository
+          </a>
+        </div>
+      </article>
 
-<p>
-Always excited to collaborate, learn, and build something impactful.
-</p>
+    </section>
 
-<p>
-<a href="https://hustlexsolutions.github.io/">
-<img src="https://img.shields.io/badge/🌐%20EXPLORE%20LIVE%20PROJECTS-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white">
-</a>
-</p>
+    <section class="explore">
+      <h2>🚀 Open to Explore Projects</h2>
+      <p>
+        Always excited to collaborate, learn, and build something impactful.
+      </p>
 
----
+      <a class="btn btn-live"
+         href="PASTE_PAKSHEILDAI_BOLT_URL_HERE"
+         target="_blank">
+        🌐 Explore Live Projects →
+      </a>
+    </section>
+
+  </main>
+</body>
+</html>
 
 ## 📊 GitHub Stats
 
