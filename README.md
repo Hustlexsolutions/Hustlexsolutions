@@ -107,58 +107,66 @@ facial recognition for fast and secure tracking.
 
 <br>
 
-<h2 align="center">⚡ Developer Snapshot</h2>
+<h2 align="center">📊 GitHub Statistics</h2>
 
-<p align="center">
-  <i>Building intelligent, practical & modern digital solutions.</i>
+<table align="center">
+<tr>
+
+<td width="50%" align="center" valign="top">
+
+<h3>🚀 Developer Focus</h3>
+
+<p>
+<b>Artificial Intelligence</b><br>
+Machine Learning • Generative AI<br>
+Computer Vision • Data Science
 </p>
+
+<br>
+
+<p>
+<b>💻 Development</b><br>
+Python • TypeScript • React<br>
+APIs • Supabase • Git
+</p>
+
+<br>
+
+<p>
+<b>🔥 Currently Building</b><br>
+AI-powered products & practical<br>
+technology-driven solutions
+</p>
+
+</td>
+
+<td width="50%" align="center" valign="top">
+
+<h3>💻 Top Languages</h3>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hustlexsolutions&theme=github_dark" alt="Top Languages">
+
+</td>
+
+</tr>
+</table>
 
 <br>
 
 <table align="center">
 <tr>
 
-<td width="33%" align="center">
+<td width="100%" align="center">
 
-<h2>🤖</h2>
-
-<h3>AI & Machine Learning</h3>
+<h3>⚡ GitHub Activity</h3>
 
 <p>
-Artificial Intelligence<br>
-Machine Learning<br>
-Generative AI<br>
-Computer Vision
+<b>Building • Learning • Exploring • Creating</b>
 </p>
 
-</td>
-
-<td width="33%" align="center">
-
-<h2>💻</h2>
-
-<h3>Development</h3>
-
 <p>
-Python • TypeScript<br>
-React • Next.js<br>
-Node.js • APIs<br>
-Supabase • Git
-</p>
-
-</td>
-
-<td width="33%" align="center">
-
-<h2>🚀</h2>
-
-<h3>Building & Exploring</h3>
-
-<p>
-AI Products<br>
-Cybersecurity Tools<br>
-Automation<br>
-Modern Web Apps
+Focused on AI, Data Science, Generative AI,<br>
+modern web technologies and real-world projects.
 </p>
 
 </td>
@@ -168,52 +176,6 @@ Modern Web Apps
 
 <br>
 
-<h2 align="center">🧠 Current Focus</h2>
-
-<table align="center">
-<tr>
-
-<td align="center">
-
-<b>AI Engineering</b><br>
-Building practical AI-powered applications
-
-</td>
-
-<td align="center">
-
-<b>GenAI</b><br>
-Exploring intelligent AI workflows
-
-</td>
-
-<td align="center">
-
-<b>Data Science</b><br>
-Turning data into useful insights
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<h2 align="center">🛠️ Technology Stack</h2>
-
 <p align="center">
-
-<img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=white">
-<img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB">
-<img src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=next.js&logoColor=white">
-<img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js&logoColor=5FA04E">
-<img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032">
-
-</p>
-
-<br>
-
-<p align="center">
-  <b>🚀 Turning ideas into real-world digital products.</b>
+<b>🚀 Turning ideas into real-world digital solutions.</b>
 </p>
