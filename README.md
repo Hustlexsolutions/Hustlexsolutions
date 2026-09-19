@@ -12,51 +12,63 @@
 <table>
 <tr>
 
-<td width="33%" align="center">
+<td width="33%" align="center" valign="top">
 
-<h3>🛡️ PAKSHEILDAL</h3>
+<h2>🛡️ PAKSHEILDAI</h2>
 
 <p>
-A project focused on developing practical and technology-driven solutions.
+AI-powered project focused on practical and technology-driven solutions.
 </p>
 
-<p><b>Tech:</b> Python</p>
+<p>
+<b>Tech:</b> TypeScript
+</p>
 
+<p>
 <a href="https://github.com/Hustlexsolutions/PAKSHEILDAI">
-View Project →
+<b>💻 View Project</b>
 </a>
+</p>
 
 </td>
 
-<td width="33%" align="center">
+<td width="33%" align="center" valign="top">
 
-<h3>🚀 SAFEHER</h3>
+<h2>🚀 SAFEHER</h2>
 
 <p>
 A practical software project built to provide an efficient and user-friendly solution.
 </p>
 
-<p><b>Tech:</b> Python</p>
+<p>
+<b>Tech:</b> Python
+</p>
 
-<a href="https://github.com/Hustlexsolutions/SAFTHER">
-View Project →
+<p>
+<a href="#">
+<b>🌐 Live Project</b>
 </a>
+</p>
 
 </td>
 
-<td width="33%" align="center">
+<td width="33%" align="center" valign="top">
 
-<h3>🤖 Attend-X</h3>
+<h2>🤖 Attend-X</h2>
 
 <p>
-AI-powered attendance management system using facial recognition for fast and secure attendance tracking.
+AI-powered attendance management system using facial recognition.
 </p>
 
-<p><b>Tech:</b> Python • AI • Computer Vision</p>
+<p>
+<b>Tech:</b> Python • AI • Computer Vision
+</p>
 
+<p>
 <a href="https://github.com/Hustlexsolutions/Attend-X">
-View Project →
+<b>💻 View Project</b>
 </a>
+</p>
 
 </td>
 
