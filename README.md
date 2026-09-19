@@ -123,35 +123,16 @@ facial recognition for fast and secure tracking.
 
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Hustlexsolutions&show_icons=true&theme=tokyonight&hide_border=true">
-
-</div>
-
----
 <br>
 
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Hustlexsolutions&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=Hustlexsolutions&show_icons=true&theme=tokyonight&hide_border=true" alt="Hustlexsolutions GitHub Stats">
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hustlexsolutions&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Top Languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hustlexsolutions&layout=compact&theme=tokyonight&hide_border=true" alt="Hustlexsolutions Top Languages">
 
 </div>
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Hustlexsolutions&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Hustlexsolutions&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=Hustlexsolutions&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
