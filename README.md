@@ -10,6 +10,25 @@
 <h1 align="center">📌 Featured Projects</h1>
 
 <table>
+  <br>
+
+<hr>
+
+<h2 align="center">🌐 Explore My Portfolio</h2>
+
+<p align="center">
+<b>💻 Visit my official GitHub Portfolio Website</b>
+</p>
+
+<p align="center">
+<a href="https://hustlexsolutions.github.io/">
+<img src="https://img.shields.io/badge/🌐%20VISIT%20PORTFOLIO-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Visit Portfolio">
+</a>
+</p>
+
+<hr>
+
+<br>
 <tr>
 
 <td width="33%" align="center" valign="top">
