@@ -110,19 +110,6 @@ facial recognition for fast and secure tracking.
 <tr>
 <td align="center">
 
-<h2>🚀 Open to Explore Projects</h2>
-
-<p>
-Always excited to collaborate, learn, and build something impactful.
-</p>
-
-<a href="https://pakshield-ai-cyberse-xsrl.bolt.host">
-<img src="https://img.shields.io/badge/EXPLORE%20LIVE%20PROJECTS-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white">
-</a>
-
-</td>
-</tr>
-</table>
 
 <br>
 
