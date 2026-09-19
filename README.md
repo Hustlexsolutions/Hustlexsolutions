@@ -7,9 +7,9 @@
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)
-<h1 align="left">📌 Featured Projects</h1>
+<h1 align="center">📌 Featured Projects</h1>
 
-<table width="100%">
+<table>
 <tr>
 
 <td width="33%" align="center" valign="top">
@@ -17,18 +17,20 @@
 <h2>🛡️ PAKSHEILDAI</h2>
 
 <p>
-AI-powered project focused on building practical
-and technology-driven solutions.
+AI-powered project focused on practical,
+technology-driven solutions.
 </p>
 
 <br>
 
-<p><b>⚡ TypeScript</b></p>
+<p>
+<b>⚡ TypeScript</b>
+</p>
 
 <br>
 
-<a href="https://hustlexsolutions.github.io/">
-🚀 <b>Open Project</b>
+<a href="PASTE_PAKSHEILDAI_BOLT_URL_HERE">
+<b>🚀 OPEN LIVE PROJECT →</b>
 </a>
 
 <br><br>
@@ -51,12 +53,14 @@ an efficient and user-friendly solution.
 
 <br>
 
-<p><b>🐍 Python</b></p>
+<p>
+<b>🐍 Python</b>
+</p>
 
 <br>
 
-<a href="https://hustlexsolutions.github.io/">
-🚀 <b>Open Project</b>
+<a href="PASTE_SAFEHER_LIVE_URL_HERE">
+<b>🚀 OPEN LIVE PROJECT →</b>
 </a>
 
 <br><br>
@@ -79,12 +83,14 @@ facial recognition for fast and secure tracking.
 
 <br>
 
-<p><b>🐍 Python • AI • Computer Vision</b></p>
+<p>
+<b>🐍 Python • AI • Computer Vision</b>
+</p>
 
 <br>
 
-<a href="https://hustlexsolutions.github.io/">
-🚀 <b>Open Project</b>
+<a href="PASTE_ATTENDX_LIVE_URL_HERE">
+<b>🚀 OPEN LIVE PROJECT →</b>
 </a>
 
 <br><br>
@@ -100,7 +106,9 @@ facial recognition for fast and secure tracking.
 
 <br>
 
----
+<table>
+<tr>
+<td align="center">
 
 <h2>🚀 Open to Explore Projects</h2>
 
@@ -108,13 +116,25 @@ facial recognition for fast and secure tracking.
 Always excited to collaborate, learn, and build something impactful.
 </p>
 
-<p>
-<a href="https://hustlexsolutions.github.io/">
-<img src="https://img.shields.io/badge/🌐%20EXPLORE%20LIVE%20PROJECTS-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white">
+<a href="PASTE_PAKSHEILDAI_BOLT_URL_HERE">
+<img src="https://img.shields.io/badge/EXPLORE%20LIVE%20PROJECTS-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white">
 </a>
-</p>
+
+</td>
+</tr>
+</table>
+
+<br>
 
 ---
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Hustlexsolutions&show_icons=true&theme=tokyonight&hide_border=true">
+
+</div>
 
 ## 📊 GitHub Stats
 
