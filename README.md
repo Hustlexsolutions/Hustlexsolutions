@@ -103,36 +103,30 @@ facial recognition for fast and secure tracking.
 
 </tr>
 </table>
-
 <br>
 
-<table>
+<h2 align="center">📊 GitHub Statistics</h2>
+
+<table align="center">
 <tr>
-<td align="center">
+<td align="center" width="50%">
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hustlexsolutions&theme=github_dark" alt="GitHub Statistics">
+
+</td>
+
+<td align="center" width="50%">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hustlexsolutions&theme=github_dark" alt="Top Languages">
+
+</td>
+</tr>
+</table>
 
 <br>
 
----
-
-<h2 align="center">📊 GitHub Stats</h2>
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Hustlexsolutions&show_icons=true&theme=tokyonight&hide_border=true">
-
-</div>
-
-<br>
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Hustlexsolutions&show_icons=true&theme=tokyonight&hide_border=true" alt="Hustlexsolutions GitHub Stats">
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hustlexsolutions&layout=compact&theme=tokyonight&hide_border=true" alt="Hustlexsolutions Top Languages">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hustlexsolutions&theme=github_dark" alt="GitHub Profile Details">
 
 </div>
